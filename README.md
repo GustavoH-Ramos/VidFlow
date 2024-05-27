@@ -4,6 +4,7 @@
 <p>
 Projeto criado durante o curso de JavaScript: consumindo e tratando dados de uma API da Alura, nesse projeto foi confeccionado um site que contém vídeos disponíveis para consumo como no Youtube. No projeto foi utilizado o nodejs para consumir uma fake api, a qual contia todas as informações necessárias para trabalhar tanto o display em tela dos elementos quanto dos filtros aplicaveis aos mesmos.
 </p>
+<a href = "https://node-vid-flow.vercel.app/" class = "link">Clique aqui para acessar o projeto</a>
 </br> </br>
 ##Tecnologias
 <div>
